@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/Intro_harsh.gif" alt="👋 Hi there! I'm Harsh" title="👋 Hi there! I'm Harsh"/>
+<img src="https://raw.githubusercontent.com/harshul-2002/harshul-2002/main/Intro_harsh.gif" alt="👋 Hi there! I'm Harsh" title="👋 Hi there! I'm Harsh"/>
 <div align="justify">
 
 <a href="https://www.instagram.com/ydk__harsh_/">
@@ -195,13 +195,7 @@ Welcome to my GitHub Page! I'm Harsh Kumar, a Computer Engineering student passi
 </a>
   <br/>
   <br/>
-   <a href="https://github.com/harshul-2002/Simpli-Law">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshul-2002&repo=Simpli-Law&theme=default" />
- </a>
 
-
-   <br/>
-  <br/>
  
    <a href="https://github.com/harshul-2002/Git-profile-card">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshul-2002&repo=Git-profile-card&theme=default" />
