@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/harshul-2002/harshul-2002/main/Intro_harsh.gif" alt="👋 Hi there! I'm Harsh" title="👋 Hi there! I'm Harsh"/>
+<img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" alt="👋 Hi there! I'm Harsh" title="👋 Hi there! I'm Harsh"/>
 <div align="justify">
 
 <a href="https://www.instagram.com/ydk__harsh_/">
