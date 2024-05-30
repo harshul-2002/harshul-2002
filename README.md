@@ -144,32 +144,28 @@ Welcome to my GitHub Page! I'm Harsh Kumar, a Computer Engineering student passi
 
 ## Github stats 📊
 
-<details>
+
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=harshul-2002&theme=blue-green&card_width=505" alt="GitHub Streak" /></a>
  <br/>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=harshul-2002&&theme=blue-green&card_width=505&hide_border=true&include_all_commits=true&count_private=false&layout=compact" /></a>
- 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshul-2002&&theme=blue-green&card_width=505&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-  <br/>
-</details>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=harshul-2002&&theme=blue-green&card_width=505&include_all_commits=true&count_private=false&layout=compact" /></a>
+ <br/>
 
-<details>
+
+
   <summary>Activity Graph 📈</summary>
   <br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshul-2002&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</details>
 
 
-<details>
+
   <summary>Profile Views 👁️</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=harshul-2002&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
-</details>
 
 <!-- 
 <details>
