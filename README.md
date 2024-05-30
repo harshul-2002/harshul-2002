@@ -148,7 +148,7 @@ Welcome to my GitHub Page! I'm Harsh Kumar, a Computer Engineering student passi
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=harshul-2002&theme=blue-green&card_width=505" alt="GitHub Streak" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=harshul-2002&&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/></a>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshul-2002&&theme=blue-green&card_width=505&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
   <br/>
 </details>
 
