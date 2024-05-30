@@ -167,17 +167,6 @@ Welcome to my GitHub Page! I'm Harsh Kumar, a Computer Engineering student passi
   <img src="https://komarev.com/ghpvc/?username=harshul-2002&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 
-<!-- 
-<details>
-  <summary>Wakatime ⏳</summary>
-  <br/>
-  <img src="https://wakatime.com/share/@rzashakeri/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
-  <br/>
-  <br/>
-  <br/>
-
-  <img src="https://wakatime.com/share/@rzashakeri/b43da924-55df-4315-897d-e4dd9fb798f9.png">
-</details> -->
 
 
 <details>
