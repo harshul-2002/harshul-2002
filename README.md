@@ -120,6 +120,10 @@ Welcome to my GitHub Page! I'm Harsh Kumar, a Computer Engineering student passi
         <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="" />
       <br>AI
     </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="65" height="65" alt="" />
+      <br>Raspberrypi
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="" />
       <br>OpenCV
