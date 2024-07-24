@@ -91,7 +91,7 @@ Welcome to my GitHub Page! I'm Harsh Kumar, a Computer Engineering student passi
       <br>NPM
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="nodejs" />
       <br>Nodejs
     </td>
     <td align="center" width="96">
