@@ -48,19 +48,19 @@ Welcome to my GitHub Page! I'm Harsh Kumar, a Computer Engineering student passi
       <br>Python
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
@@ -68,11 +68,11 @@ Welcome to my GitHub Page! I'm Harsh Kumar, a Computer Engineering student passi
       <br>Javascript
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=jquery" width="65" height="65" alt="jquery" />
       <br>JQuery
     </td>
         <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="react" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="react" />
       <br>React
     </td>
   </tr>
@@ -83,23 +83,23 @@ Welcome to my GitHub Page! I'm Harsh Kumar, a Computer Engineering student passi
       <br>Rest API
     </td>
      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/clr_ejs_1.png" width="48" height="48" alt="ejs" />
+        <img src="https://img.icons8.com/color/clr_ejs_1.png" width="65" height="65" alt="ejs" />
       <br>EJS
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+        <img src="https://skillicons.dev/icons?i=npm" width="65" height="65" alt="npm" />
       <br>NPM
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="nodejs" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="nodejs" />
       <br>Nodejs
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="express" />
       <br>Express
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="dart" />
       <br>MongoDB
     </td>
   <td align="center" width="96">
@@ -107,7 +107,7 @@ Welcome to my GitHub Page! I'm Harsh Kumar, a Computer Engineering student passi
       <br>VScode
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
       <br>Git
     </td>
      <td align="center" width="96">
@@ -117,7 +117,7 @@ Welcome to my GitHub Page! I'm Harsh Kumar, a Computer Engineering student passi
   </tr>
    <tr>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=ai" width="65" height="65" alt="" />
       <br>AI
     </td>
      <td align="center" width="96">
@@ -125,19 +125,19 @@ Welcome to my GitHub Page! I'm Harsh Kumar, a Computer Engineering student passi
       <br>Raspberrypi
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=opencv" width="65" height="65" alt="" />
       <br>OpenCV
     </td>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/nolan/yolo.png" width="48" height="48" alt="" />
+        <img src="https://img.icons8.com/nolan/yolo.png" width="65" height="65" alt="" />
       <br>YOLO
     </td>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/fluency/jupyter.png" width="48" height="48" alt="" />
+        <img src="https://img.icons8.com/fluency/jupyter.png" width="65" height="65" alt="" />
       <br>jupyter
     </td>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/color/google-colab.png" width="48" height="48" alt="" />
+        <img src="https://img.icons8.com/color/google-colab.png" width="65" height="65" alt="" />
       <br>Google colab
     </td>
     
